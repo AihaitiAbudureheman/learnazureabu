@@ -16,7 +16,7 @@ const App = () => {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React
+          I am testing the Microsoft Azure!
         </a>
       </header>
     </div>
